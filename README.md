@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi there! I'm a passionate web developer and fresh graduate diving into the tech world.<br>🌟 Current Focus: Sharpening my skills in full-stack development with React, Node.js, and MongoDB.<br>🚀 Projects: Building dynamic and responsive web applications.<br>📚 Learning: Exploring the depths of backend technologies and APIs.<br>🧩 Fun Fact: I love solving Rubik's cubes and can tackle any pattern you throw at me!<br>✨ Always eager to learn, create, and collaborate. Let's connect!
+👋 Hi there! I'm a passionate web developer and fresh graduate diving into the tech world.<br>🌟 <b>Current Focus:</b> Sharpening my skills in full-stack development with React, Node.js, and MongoDB.<br>🚀 <b>Projects: Building dynamic and responsive web applications.</b><br>📚 <b>Learning:</b> Exploring the depths of backend technologies and APIs.<br>🧩 <b>Fun Fact:</b> I love solving Rubik's cubes and can tackle any pattern you throw at me!<br>✨ Always eager to learn, create, and collaborate. Let's connect!
 
 
 ## 🌐 Socials:
